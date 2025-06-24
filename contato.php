@@ -26,7 +26,6 @@ if ($hora < 12) {
   <p class="mb-0"><?= $saudacao ?>! Bem-vindo à Lino's Barber.</p>
 </div>
 
-<!-- banner -->
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark shadow-sm">
   <div class="container">
     <a class="navbar-brand" href="index.html">
@@ -47,7 +46,6 @@ if ($hora < 12) {
   </div>
 </nav>
 
-<!-- contato -->
 <section class="py-5" id="contato">
   <div class="container">
     <h2 class="text-center mb-4">Agende seu horário</h2>
