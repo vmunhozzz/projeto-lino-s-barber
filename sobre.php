@@ -12,7 +12,6 @@
 </head>
 <body>
 
-  <!-- banner -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark shadow-sm">
     <div class="container">
       <a class="navbar-brand" href="index.html">
@@ -33,7 +32,6 @@
     </div>
   </nav>
 
-  <!-- banner com o texto -->
   <section id="inicio" class="position-relative">
     <img src="images/sobrebannerprc.jpeg" class="img-fluid w-100" style="max-height: 500px; object-fit: cover;" alt="Banner Barbearia">
     <div class="position-absolute top-50 start-50 translate-middle text-white text-center px-3" style="text-shadow: 6px 6px 6px rgba(0,0,0,0.7);">
@@ -43,7 +41,6 @@
     </div>
   </section>
 
-  <!-- sobre -->
   <section id="sobre" class="container py-5">
     <div class="row align-items-center">
       
