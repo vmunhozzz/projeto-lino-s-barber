@@ -18,7 +18,6 @@ body {
   scroll-behavior: smooth;
 }
 
-/* Navbar */
 .navbar {
   background-color: var(--cor-primaria);
   padding: 0.8rem 1rem;
@@ -40,7 +39,6 @@ body {
   color: var(--cor-hover);
 }
 
-/* Imagens gerais */
 img {
   border-radius: 12px;
   object-fit: cover;
@@ -49,7 +47,7 @@ img {
   display: block;
 }
 
-/* Hover nas imagens da seção de serviços */
+
 .row img {
   transition: transform 0.4s ease, box-shadow 0.4s ease;
 }
@@ -58,7 +56,6 @@ img {
   box-shadow: var(--sombra);
 }
 
-/* Botões */
 .btn-primary {
   background-color: var(--cor-primaria);
   border: none;
@@ -92,7 +89,6 @@ p {
   color: #cfcfcf;
 }
 
-/* Cards */
 .card {
   border: none;
   border-radius: 16px;
@@ -105,20 +101,19 @@ p {
   transform: translateY(-5px);
 }
 
-/* Seção com imagem e botão */
+
 .container img {
   max-width: 100%;
   height: auto;
 }
 
-/* Estilo da imagem da seção de agendamento */
 .agendamento-img {
   height: 400px;
   object-fit: cover;
   filter: brightness(0.7);
 }
 
-/* Efeito no botão de agendamento */
+
 .btn-primary {
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
@@ -127,9 +122,9 @@ p {
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
 }
 
-/* Footer */
+
 footer {
-  /* font-family: 'Roboto Flex', sans-serif; */
+  
   background-color: #1a2a44;
   color: var(--cor-texto);
   padding-top: 1rem;
@@ -146,14 +141,12 @@ footer a:hover {
   text-decoration: underline;
 }
 
-/* Ícones sociais */
+
 footer i {
   font-size: 1.5rem;
   margin-right: 8px;
 }
 
-
-/* Animações suaves ao carregar */
 .fade-in {
   opacity: 0;
   transform: translateY(30px);
@@ -166,7 +159,7 @@ footer i {
   }
 }
 
-/* Responsividade: Telas menores */
+
 @media (max-width: 767px) {
   h1 {
     font-size: 1.8rem;
@@ -207,7 +200,7 @@ footer i {
   }
 }
 
-/* Responsividade: Tablets */
+
 @media (min-width: 768px) and (max-width: 991px) {
   h1 {
     font-size: 2.2rem;
@@ -230,7 +223,6 @@ footer i {
   }
 }
 
-/* ======= Estilos personalizados para a seção SOBRE ======= */
 
 #sobre {
   padding-top: 3rem;
@@ -278,7 +270,6 @@ footer i {
   }
 }
 
-/* ======= Estilo para o formulário de agendamento ======= */
 
 #contato {
   background-color: #3a3f47 ;
