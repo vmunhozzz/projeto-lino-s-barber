@@ -36,7 +36,7 @@
 </head>
 <body>
 
-  <!-- banner -->
+
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark shadow-sm">
     <div class="container">
       <a class="navbar-brand" href="index.html">
@@ -58,7 +58,6 @@
   </nav>
 
   <main>
-    <!-- banner com o texto -->
     <section id="inicio" class="position-relative">
       <img src="images/serviçosbanner.jpeg" class="img-fluid w-100" style="max-height: 500px; object-fit: cover;" alt="Banner Barbearia">
       <div class="position-absolute top-50 start-50 translate-middle text-white text-center px-3" style="text-shadow: 1px 1px 6px rgba(0,0,0,0.7);">
@@ -68,7 +67,6 @@
       </div>
     </section>
 
-    <!-- os serviços -->
     <section class="py-5" id="servicos">
       <div class="container">
         <h2 class="text-center mb-4">Nossos Serviços</h2>
