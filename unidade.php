@@ -13,7 +13,6 @@
 </head>
 <body>
 
-  <!-- banner -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark shadow-sm">
     <div class="container">
       <a class="navbar-brand" href="index.html">
@@ -34,7 +33,6 @@
     </div>
   </nav>
 
-  <!-- banner com  o texto -->
   <section id="inicio" class="position-relative">
     <img src="images/sobrebanner.jpg" class="img-fluid w-100" style="max-height: 500px; object-fit: cover;" alt="Banner Barbearia">
     <div class="position-absolute top-50 start-50 translate-middle text-white text-center px-3" style="text-shadow: 6px 6px 6px rgba(0,0,0,0.7);">
@@ -43,8 +41,7 @@
       <a href="https://booksy.com/pt-br/183335_linos-barber_barbearias_574975_araruna" target="_blank" class="btn btn-primary mt-3">Agendar agora</a>
     </div>
   </section>
-
-<!-- unidade  -->
+  
 <section id="Unidade" class="py-5 bg-cor-fundo">
   <div class="container">
     <div class="row align-items-center gy-4">
