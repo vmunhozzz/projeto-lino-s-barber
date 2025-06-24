@@ -22,7 +22,7 @@ $navItems = [
 </head>
 <body>
 
-  <!-- banner do index -->
+
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark shadow-sm">
     <div class="container">
       <a class="navbar-brand" href="index.php">
@@ -43,7 +43,7 @@ $navItems = [
     </div>
   </nav>
 
-  <!-- banner com o texto -->
+
   <section id="inicio" class="position-relative">
     <img src="images/lnsbfr.jpg" class="img-fluid w-100" style="max-height: 500px; object-fit: cover;" alt="Banner Barbearia">
     <div class="position-absolute top-50 start-50 translate-middle text-white text-center px-3" style="text-shadow: 1px 1px 6px rgba(0,0,0,0.7);">
@@ -68,7 +68,6 @@ $navItems = [
   </div>
 </section>
 
-<!-- serviços -->
 <section id="servicos" class="container my-5">
   <h2 class="text-center mb-4" data-aos="fade-up">Nossos Serviços</h2>
   <div class="row text-center">
@@ -102,7 +101,6 @@ $navItems = [
   </div>
 </section>
 
-<!-- agendar -->
 <section class="container my-5" data-aos="zoom-in-up">
   <div class="position-relative rounded overflow-hidden">
     <img src="images/WhatsApp Image 2025-06-02 at 20.52.46-900x450.jpg" class="img-fluid w-100 rounded agendamento-img" alt="Agendamento" loading="lazy">
