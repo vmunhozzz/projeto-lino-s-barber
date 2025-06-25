@@ -9,30 +9,7 @@
   <link rel="stylesheet" href="css/style.css">
   <link rel="shortcut icon" href="images/logo branca-150x120.png">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.css">
-  <style>
-    html, body {
-      height: 100%;
-      margin: 0;
-    }
-
-    body {
-      display: flex;
-      flex-direction: column;
-    }
-
-    main {
-      flex: 1;
-    }
-
-    .servico-card {
-      transition: transform 0.3s ease, box-shadow 0.3s ease;
-    }
-
-    .servico-card:hover {
-      transform: translateY(-10px);
-      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-    }
-  </style>
+  
 </head>
 <body>
 
